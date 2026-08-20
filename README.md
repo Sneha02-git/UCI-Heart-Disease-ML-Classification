@@ -11,10 +11,10 @@ Machine learning based heart disease classification using the UCI Heart Disease 
 
 ## Dataset
 
-This project uses the UCI Heart Disease dataset.
+This project uses the UCI Heart Disease dataset obtained from Kaggle.
 
-Dataset source:
-https://archive.ics.uci.edu/
+### Kaggle Dataset
+https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data
 
 ## Workflow
 
